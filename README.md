@@ -1,6 +1,6 @@
 # The Not-Departure series
 
-A centralized repo for a spiritual tribute/follow-up to "The Departure" ASMR series
+A centralized repo for a spiritual tribute/follow-up to "The Departure" ASMR series. The actual official title of this spiritual successor is currently TBD.
 
 ##### Actual Series:
 
