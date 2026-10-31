@@ -1,3 +1,6 @@
 *.m4a
 videos/**
 scripts/**
+
+# Transcripts and subtitles of the original Departure series (third-party, copyrighted; this repo is public)
+subs/

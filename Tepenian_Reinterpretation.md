@@ -11,6 +11,17 @@ this universe normally handles naming decisions.
 not prose, not a game script. Title also TBD; "Departure" is a working label
 only, will definitely be renamed.
 
+**Name map (for reference).** This series is written against roles. The names
+come from *The Cryptograph Helix*, whose specific factions may still change,
+and from the original *Departure*. When the Helix renames anything, update this
+table first. See `findings/02_Cryptograph_Helix_Dependence.md`.
+
+| Role in this series | Current Cryptograph Helix name | Name in the original *Departure* |
+|---|---|---|
+| The Earth government (the antagonist) | Earthtech (a placeholder in the Helix too) | "the Elite"; the "Google Galactic Republic" |
+| The resistance | the Resistance | "we" / "our kind" |
+| The mafias (background: Mars, the Belt, Jupiter) | the DNA mafias | (none) |
+
 ---
 
 ## 1. Foundational Decisions (settled 2026-08-10, dating/destination revised
