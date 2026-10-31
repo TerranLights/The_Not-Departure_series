@@ -1,0 +1,7 @@
+		<DOC>:
+
+		<ATTENDANT>:
+
+		<RESISTANCE CONTACT — STP-08>:
+
+		<INFORMANT — CLM-04>:
