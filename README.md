@@ -1,4 +1,4 @@
-# The_Not-Departure_series
+# The Not-Departure series
 
 A centralized repo for a spiritual tribute/follow-up to "The Departure" ASMR series
 
