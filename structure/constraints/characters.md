@@ -2,14 +2,14 @@
 
 2026-11-26. **Not the beats themselves.** What the existing character data and the universe's rules force for each character, whatever their arcs turn out to be. Tags and weights: see `README.md`. Sources: `background notes/characters/`, `Tepenian_Reinterpretation.md` §3. The Resistance Contact's and the Informant's doll folders are still template-only, so their constraints may need revising once those exist.
 
-**Every character, the author's plan (2026-11-26):** each may carry his own "writing stories for men" principle, either one he needs to learn or one he embodies and has tested. Choose it before filling his arc beats.
+**The audience guides come later** (author, 2026-11-27): each character's "writing stories for men" principle, if one fits, is found at the audience pass, once a full outline stands. It shapes none of the constraints below.
 
 ---
 
 ## Doc (the passenger; a robot from Episode 2 on)
 ### MUST be true
 0. **He becomes a robot.** The robot helping him transfers his mind into a robot body (author, 2026-11-26). From then on he is the series' robot lead, with the full composite structure [Law; Adopted; Composite].
-1. **A human researcher until the transfer with real medical and scientific credentials, shown working, not stated** [Source: "I hardly need to explain physiology to a doctor"; writing stories for men: competence shown, not awarded].
+1. **A human researcher until the transfer with real medical and scientific credentials** [Source: "I hardly need to explain physiology to a doctor"].
 2. **His motive starts personal, not ideological**: love that refused to accept outliving, or being outlived [Adopted].
 3. **His core fear stays live after the transfer**: that what survived isn't really him. It is not resolved early [Proposed; CDM: the Greatest Fear feeds the Black Moment].
 4. **His goal shifts from giving the technology to ordinary people, to surviving and reclaiming or destroying what the Earth government built from it** [Adopted: initial and later goals].

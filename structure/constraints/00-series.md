@@ -19,18 +19,19 @@
 3. **Consciousness transfer is never clean** [RU, Ch. 2 and Ch. 27, binding on every Tepenian work]. A mind has no static state to copy; every transfer risks memory loss or alteration. Doc's breakthrough is at most the first method that *survives* the transfer, not one that preserves full continuity (`02-Blocking-Decisions.md`, recommended fix).
 4. **No Good Endings governs the endings** (the "studio's standing principle," `Tepenian_Reinterpretation.md` §3.3): even a successful rescue does not come with a clean win against the Earth government.
 5. **The Earth government stays active and powerful throughout**, because the series runs before its fall in Cryptograph Helix Book 7 [Adopted; Continuity].
-6. **Each main character's "writing stories for men" principle is chosen before that character's arc beats are filled**: either one the character needs to learn, or one the character embodies and has tested (author, 2026-11-26).
+6. **Every foreground robot gets the archetype layer** (the method's Step 8), Doc included from the transfer on; how many archetype arcs an audio series supports per character is undecided [Composite; Open].
 7. **Every beat is legible by ear**: who is speaking, where we are, what just happened [Medium].
 8. **Fidelity to the original:** its on-screen facts hold unless this repo's reinterpretation deliberately changes one, and every such change is recorded [Source; Adopted].
 
 ### CANNOT be true
-1. **A second coincidence anywhere in the series**, or a coincidence that gets anyone out of trouble [Law; Composite].
-2. **A clean, risk-free transfer**, for Doc, for the Earth government's leaders, or anyone else [RU].
-3. **Robots' personhood reopened as a question.** It was settled centuries earlier (Jeju-do 2318; Falkland Treaty 2564). The servitors' personhood is a live question precisely because they were built to fall outside it [Continuity].
-4. **A named national mafia, or any beat that rests on a faction's real-world nationality** [Law: No National Stereotypes; Continuity].
-5. **A currency named**, until the Tepenian Federation's economy has its own pass [Adopted].
-6. **The Earth government shown controlling Mars**, unless the Cryptograph Helix settles that it does at this point (`02-Blocking-Decisions.md`) [Continuity].
-7. **The Not-Departure story becoming a subplot of the novels.** One minor cross-reference only [Adopted].
+1. **Any constraint built from the audience guides** [Law, 2026-11-27].
+2. **A second coincidence anywhere in the series**, or a coincidence that gets anyone out of trouble [Law; Composite].
+3. **A clean, risk-free transfer**, for Doc, for the Earth government's leaders, or anyone else [RU].
+4. **Robots' personhood reopened as a question.** It was settled centuries earlier (Jeju-do 2318; Falkland Treaty 2564). The servitors' personhood is a live question precisely because they were built to fall outside it [Continuity].
+5. **A named national mafia, or any beat that rests on a faction's real-world nationality** [Law: No National Stereotypes; Continuity].
+6. **A currency named**, until the Tepenian Federation's economy has its own pass [Adopted].
+7. **The Earth government shown controlling Mars**, unless the Cryptograph Helix settles that it does at this point (`02-Blocking-Decisions.md`) [Continuity].
+8. **The Not-Departure story becoming a subplot of the novels.** One minor cross-reference only [Adopted].
 
 ---
 

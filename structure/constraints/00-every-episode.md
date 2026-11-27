@@ -1,6 +1,6 @@
 # Every Episode: Constraint Specifications
 
-2026-11-26. **Not the beats themselves.** What every episode must and must not be, as its own story layer inside the serialized whole. Each episode is judged within its own layer. Tags and weights: see `README.md`.
+2026-11-26. **Not the beats themselves.** What every episode must and must not be, as its own story layer inside the serialized whole. Episode constraints are declared separately from the series'; where an episode beat and a series beat land on the same point, the event there satisfies both. Tags and weights: see `README.md`.
 
 **Why episodes are a layer of their own:** Harmon's circle was built for short, episodic work. In television, he says, every episode completes all eight steps even while the series as a whole moves slowly (Harmon, Story Structure 105). A serialized audio drama works the same way, whatever its length.
 
@@ -14,7 +14,7 @@
 5. **The pleasures promised early keep coming**: the procedural, close, second-person ASMR texture of the original, wherever the story allows it [Fox 7; Source].
 6. **Legible by ear**: speaker, place and action are carried by dialogue, foley and narration [Medium].
 7. **A tentpole moment, or a deliberate quieter pacing episode**, never neither [Fox 6].
-8. **It advances the series**: the episode serves its place in the series structure (`00-series.md`), judged there, not here.
+8. **It advances the series**: where a series beat (`00-series.md`) falls inside the episode, the event that fills that point satisfies both the episode's constraints and the series'.
 
 ## CANNOT be true
 1. **An episode that only explains.** Exposition rides under something worth hearing [Snyder, the Pope in the Pool].

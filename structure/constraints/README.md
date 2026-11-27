@@ -2,7 +2,7 @@
 
 2026-11-26. **Not the beats themselves.** These files hold only the *conditions* each beat must meet and the ones it must not, so that whatever event eventually fills a slot is guaranteed to fit the structure, the original *Departure*, the Tepenian universe and the author's laws. No file here says what happens.
 
-Built the same way as *The Cryptograph Helix*'s constraint set (`TheCryptographHelixDD/plot/constraints/`) and the Starlit Engines constraint files, following the draft method in `TheCryptographHelixDD/reference/drafts/Plot_Constraint_Mapping_Method (DRAFT).md`.
+Built with the **Plot Constraint Mapping** method (Derivation Mechanisms, `Stories/Plot_Constraints/Plot_Constraint_Mapping_Method.md`), the same way as *The Cryptograph Helix*'s constraint set (`TheCryptographHelixDD/plot/constraints/`).
 
 ## The files
 
@@ -30,6 +30,7 @@ Built the same way as *The Cryptograph Helix*'s constraint set (`TheCryptographH
 
 ## Rules for every file
 - **Every beat carries multiple requirements and multiple prohibitions** (author, 2026-11-26). These lists are not complete.
-- **Each beat is judged within its own layer** (author, 2026-11-26): a series beat against the series, an episode beat against its episode.
+- **Declared separately, satisfied together** (author, 2026-11-27; this replaces the 2026-11-26 reading, "each judged only within its own layer"): series beats and episode beats each have their own constraints, declared independently. Where the two land on the same point, exactly or reasonably close, the one character-driven event that fills it must satisfy **both** sets.
+- **The audience guides are not an input** (author, 2026-11-27). The "writing stories for men" material and the notes on traditional masculine principles come in only at the audience pass (the method's Step 12), once a full outline stands. They never shape these constraints.
 - **Positions are approximate, and the episode count is undecided** (author, 2026-11-26: the earlier "30+ episodes" was only an idea). Series positions are percentages; the episode numbers shown beside them are only an example, for a 30-episode run, and scale with whatever count is chosen.
 - **Write against roles, not names** (`findings/02_Cryptograph_Helix_Dependence.md` §5): "the Earth government" (current name Earthtech), "the resistance," "the mafias." The Cryptograph Helix's specific factions and characters will almost certainly change.
