@@ -2,7 +2,7 @@
 
 2026-11-26. **Not the beats themselves.** What every episode must and must not be, as its own story layer inside the serialized whole. Each episode is judged within its own layer. Tags and weights: see `README.md`.
 
-**Why episodes are a layer of their own:** Harmon's circle was built for short, episodic work. In television, he says, every episode completes all eight steps even while the series as a whole moves slowly (Harmon, Story Structure 105). An audio drama of 30+ episodes works the same way.
+**Why episodes are a layer of their own:** Harmon's circle was built for short, episodic work. In television, he says, every episode completes all eight steps even while the series as a whole moves slowly (Harmon, Story Structure 105). A serialized audio drama works the same way, whatever its length.
 
 ---
 

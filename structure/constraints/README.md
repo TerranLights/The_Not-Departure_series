@@ -8,7 +8,7 @@ Built the same way as *The Cryptograph Helix*'s constraint set (`TheCryptographH
 
 | File | Covers |
 |---|---|
-| `00-series.md` | Every beat of the series-wide plot (30+ episodes), plus the rules that hold everywhere |
+| `00-series.md` | Every beat of the series-wide plot, plus the rules that hold everywhere |
 | `00-every-episode.md` | The constraints every episode shares |
 | `episodes-01-02-the-original.md` | Episodes 1 and 2, the reinterpretation of the original two episodes, and what fidelity to them requires |
 | `characters.md` | What the existing character data and the universe's rules force for each main character |
@@ -31,5 +31,5 @@ Built the same way as *The Cryptograph Helix*'s constraint set (`TheCryptographH
 ## Rules for every file
 - **Every beat carries multiple requirements and multiple prohibitions** (author, 2026-11-26). These lists are not complete.
 - **Each beat is judged within its own layer** (author, 2026-11-26): a series beat against the series, an episode beat against its episode.
-- **Positions are approximate.** Series positions assume **30 episodes**; scale them if the count grows.
+- **Positions are approximate, and the episode count is undecided** (author, 2026-11-26: the earlier "30+ episodes" was only an idea). Series positions are percentages; the episode numbers shown beside them are only an example, for a 30-episode run, and scale with whatever count is chosen.
 - **Write against roles, not names** (`findings/02_Cryptograph_Helix_Dependence.md` §5): "the Earth government" (current name Earthtech), "the resistance," "the mafias." The Cryptograph Helix's specific factions and characters will almost certainly change.

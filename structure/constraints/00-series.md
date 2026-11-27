@@ -1,6 +1,6 @@
 # The Full Series: Constraint Specifications
 
-2026-11-26. **Not the beats themselves.** The attributes each series-level beat has to have, and the ones it can't, across the 30+ episodes. Tags and weights: see `README.md`. Episode positions assume 30 episodes.
+2026-11-26. **Not the beats themselves.** The attributes each series-level beat has to have, and the ones it can't, across the whole series. Tags and weights: see `README.md`. **The episode count is undecided** (author, 2026-11-26). Positions are percentages; the episode numbers beside them are an example for a 30-episode run only.
 
 **Working from (established):**
 - A serialized audio drama, radio-play style, reinterpreting *Departure* (2013) into the Tepenian universe; title a placeholder.
@@ -149,7 +149,7 @@
 
 1. ~~Who is the main character?~~ **Settled (author, 2026-11-26):** Doc becomes a robot; the robot helping him transfers his mind into a robot body.
 2. ~~Where is the series' Break into Two?~~ **Settled (author, 2026-11-26):** after Doc wakes, when he chooses to join the resistance's fight.
-3. **Episode count and seasons:** positions assume 30 episodes. Are there seasons, each with its own structure layer?
+3. **Episode count and seasons:** both undecided (the "30+ episodes" figure was only an idea). Are there seasons, each with its own structure layer?
 4. **Book 6 or Book 7, keyed to events rather than book numbers** (`findings/02` §3).
 5. **Is this series' resistance the novels' resistance,** or a separate movement? (`findings/02` §3)
 6. **The Earth government's leaders' "crude immortality"** (Cryptograph Helix) and Doc's method as the better transfer they seize (`findings/02` §2). If it's used, both must stay inside the no-clean-transfer rule, and consistent with whatever the Cryptograph Helix settles about lossy uploads (its review item A2).

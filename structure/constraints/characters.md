@@ -47,7 +47,7 @@
 1. **She believes in the cause and doesn't trust herself under pressure** [Adopted].
 2. **Her insistence on verified intelligence is her way of controlling what she can**, and it shows in how she works [Adopted].
 3. **Her greatest fear is that bad intelligence gets someone killed** [Adopted, "plausibly"].
-4. **The gap between what she believes and what she'll risk is the arc's axis**, closed or not over 30+ episodes [Adopted].
+4. **The gap between what she believes and what she'll risk is the arc's axis**, closed or not over the whole series [Adopted].
 ### CANNOT be true
 1. **Becoming a confident field operative without that gap being worked through on the page** [CDM].
 2. **Her fear tested at full strength early.** Its bill comes later [CDM, from Starlit Engines' pattern; Proposed].
