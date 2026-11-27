@@ -180,13 +180,13 @@ service scene like Ep. 1 — it has a real embedded plot with a cliffhanger endi
 which is presumably what Part 3 was going to pay off.
 
 **ABSOLUTE**
-- Once the passenger is under, an unknown figure breaks into their dream via the
-  hacked delivery channel and addresses them as **"Doc."**
+- Once the passenger is under, an unknown figure breaks into his dream via the
+  hacked delivery channel and addresses him as **"Doc."**
 - The intruder states, as fact within the fiction:
   - Doc invented a technology that **"deciphered human consciousness"** and made
     it **"tangible"** — something that "could be worked with," "could be uploaded."
     A working consciousness-transfer/mind-upload technology, in other words.
-  - Doc's creation was taken from them by an unnamed, more powerful faction the
+  - Doc's creation was taken from him by an unnamed, more powerful faction the
     intruder calls **"they"**/**"their precious Elite."** This faction hid the
     technology rather than sharing it "with the masses" the way Doc intended —
     they meant to extend human life, "Eternal even," and instead it was
@@ -201,8 +201,8 @@ which is presumably what Part 3 was going to pay off.
     specifically so the destruction carries no legal/political consequence. This
     directly implies **jurisdictional space law exists** and meaningfully
     constrains where an act like this is treated as consequence-free.
-  - Doc is given a binary choice: use their own consciousness-transfer technology,
-    right now, inside the dream, to leave their dying body and join the
+  - Doc is given a binary choice: use his own consciousness-transfer technology,
+    right now, inside the dream, to leave his dying body and join the
     resistance's effort to reclaim the technology — or refuse, and die with the
     ship regardless.
   - Doc chooses the upload. The episode ends mid-transfer ("say goodbye to your body").
@@ -212,7 +212,7 @@ which is presumably what Part 3 was going to pay off.
 
 **PROBABLE**
 - Doc's original consciousness-transfer breakthrough was probably developed for,
-  or in partnership with, whatever powerful institution later betrayed them — the
+  or in partnership with, whatever powerful institution later betrayed him — the
   intruder's framing ("your work was theirs and you were done... pushed out and
   forgotten") reads as a funded-researcher-betrayed-by-patron backstory rather
   than a lone inventor being robbed outright.

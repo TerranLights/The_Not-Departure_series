@@ -130,15 +130,15 @@ guaranteed to preserve full continuity — which sharpens rather than weakens
 the Ep. 2 cliffhanger choice.
 
 **Identity:** A human researcher, most likely originally funded by or embedded
-within Earthtech's own medical/transhumanist research arm — which is how their
-work got taken from them in the first place.
+within Earthtech's own medical/transhumanist research arm — which is how his
+work got taken from him in the first place.
 
 **Motivation:** Personal, not ideological, at the start. This universe already
 has centuries of humans loving, marrying, and raising families alongside robots
 who will go on to live for centuries after they themselves die of old age — a
 completely ordinary, canonical shape of loss. Doc's real reason for pursuing
 continuity-of-identity transfer wasn't power or fame; it was watching someone
-they loved face outliving them by centuries, and refusing to accept that as
+he loved face outliving him by centuries, and refusing to accept that as
 simply how it has to be. **A robot partner is a flagged, legitimate
 possibility for this backstory** (echoing this universe's existing
 robot-human love throughline) — not yet confirmed as fact, and not yet
@@ -147,15 +147,15 @@ keeping open as a real narrative option rather than settling it prematurely.
 
 **Goal (before betrayal):** Give the technology to ordinary people so death
 didn't have to be the thing that ends a human/robot relationship. **Goal (after
-betrayal):** survive; reclaim or destroy what Earthtech built out of their work
+betrayal):** survive; reclaim or destroy what Earthtech built out of his work
 before it's used purely to extend the lives of the already-powerful.
 
-**Hardship:** Grief and body-loss trauma layered on top of an old grief they
-were already carrying. Doubt about whether what comes out the other side of a
-transfer is really *them*, or a very convincing continuation. Guilt that a
+**Hardship:** Grief and body-loss trauma layered on top of an old grief he
+was already carrying. Doubt about whether what comes out the other side of a
+transfer is really *him*, or a very convincing continuation. Guilt that a
 private act of love got repurposed into an instrument of class privilege. Likely
-isolation from the person they built this for, who may have no idea what
-happened to them.
+isolation from the person he built this for, who may have no idea what
+happened to him.
 
 ### 3.2 — The Attendant *[name placeholder]*
 
@@ -280,8 +280,8 @@ carrying the story past where Part 3 would have gone:
    original, but under the reinterpreted stakes above.
 2. **The Flight / The Reveal** (Ep. 2 analog) — stasis prep, the dream-intrusion,
    Doc's choice. Ends on the same cliffhanger beat as the real Ep. 2.
-3. **Aftermath** *(new)* — Doc wakes into their new substrate; has to work out
-   what "waking up" even means for them now, what happened to the ship, and who
+3. **Aftermath** *(new)* — Doc wakes into his new substrate; has to work out
+   what "waking up" even means for him now, what happened to the ship, and who
    the resistance actually is up close.
 4. **Exposure** *(new)* — the attendant's arc comes to a head as her own
    deviation becomes visible to Earthtech, forcing a choice that intersects with

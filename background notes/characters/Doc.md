@@ -7,15 +7,15 @@ Subvariant: [[--]] ::
 
 Core Desire: Give ordinary people continuity of identity across death/
 substrate change, so love doesn't have to end when a body does
-Core Fear: That what survives a transfer isn't really "them" — just a
+Core Fear: That what survives a transfer isn't really "him" — just a
 convincing continuation
 Core Weakness:
 Wounding Message:
 
 Hornevian Triadic Variant:
 
-Inciting Event: Watching someone they loved (possibly a robot partner —
-flagged, not confirmed) face outliving them by centuries
+Inciting Event: Watching someone he loved (possibly a robot partner —
+flagged, not confirmed) face outliving him by centuries
 
 Jumpstart to personal transformation:
 
@@ -45,7 +45,7 @@ instrument of class privilege
 Goal:
 // INITIAL: Give the technology to ordinary people, not just the powerful
 
-// LATER: Survive; reclaim or destroy what Earthtech built out of their
+// LATER: Survive; reclaim or destroy what Earthtech built out of his
 work before it's used purely to extend the lives of the already-powerful
 
 
@@ -72,8 +72,8 @@ Unpredictability:
 
 Rooting Resume: Grief and body-loss trauma layered on top of an old grief
 already carried; guilt that a private act of love got repurposed into an
-instrument of class privilege; likely isolation from the person they built
-this for, who may have no idea what happened to them
+instrument of class privilege; likely isolation from the person he built
+this for, who may have no idea what happened to him
 
 Character Archetype:
 
